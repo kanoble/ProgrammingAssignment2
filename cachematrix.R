@@ -1,6 +1,9 @@
 ## Programmimg Assignment 2 - A pair of functions that cache
 ## the inverse of a matrix.
 
+## Code structure is built upon the example provided in the course:
+## https://class.coursera.org/rprog-030/human_grading/view/courses/975104/assessments/3/submissions
+
 ## The following function creates a matrix that can
 ## cache its inverse. It sets the value of the matrix, gets
 ## the value of the matrix, sets the value of the inverse, 
